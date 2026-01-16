@@ -11,26 +11,25 @@
 </p>
 
 <p align="center"> 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  <img src="https://programmer-humor-daily.vercel.app/api" width="500" />
 </p>
 
 <p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=heyuan-yuan&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=heyuan-yuan&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=heyuan-yuan&theme=github-compact&hide_border=true&area=true">
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=heyuan-yuan&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=all_time" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyuan-yuan&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<p align="center">
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="200" />
+    
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="200" />
+</p>
+
 <br/>
 
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=light" alt="Jokes Card" />
 </p>
 
 <p align="center">
