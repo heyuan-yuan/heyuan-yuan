@@ -60,11 +60,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/heyuan-yuan">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="http://wpa.qq.com/msgrd?v=3&uin=2336634490&site=qq&menu=yes" target="_blank">
-    <img src="https://img.shields.io/badge/QQ-Chat_Now-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" />
+  <a href="https://github.com/heyuan-yuan">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=2336634490&site=qq&menu=yes" target="_blank">
+    <img src="https://img.shields.io/badge/QQ-Chat_Now-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" />
+  </a>
+  <a href="mailto:heyuan.code@gmail.com">
+    <img src="https://img.shields.io/badge/Email-heyuan.code%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
